@@ -20,7 +20,7 @@ Multilingual push requires 14 columns in the CSV file:
 1. title
 1. messageBody
 1. sound
-1. adge
+1. Badge
 1. deeplinkURI
 1. category
 1. iosMediaAttachmentURL
